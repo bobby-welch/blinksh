@@ -1,5 +1,4 @@
-// OneDark
-//
+// OneDark Theme
 
 base00 = '#282c34';
 base01 = '#e06c75';
@@ -16,9 +15,9 @@ base11 = '#d19a66';
 base12 = '#61afef';
 base13 = '#c678dd';
 base14 = '#56b6c2';
-base05 = '#5c6370';
+base15 = '#5c6370';
 
-t.prefs_.set('color-palette-overrides', 
+t.prefs_.set('color-palette-overrides',
                         [base00,
                         base11,
                         base14,
