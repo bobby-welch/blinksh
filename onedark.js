@@ -18,7 +18,7 @@ base14 = '#56b6c2';
 base15 = '#5c6370';
 
 t.prefs_.set('color-palette-overrides',
-                        [base00,
+                        [base01,
                         base11,
                         base14,
                         base13,
