@@ -11,37 +11,31 @@ base06 = '#56b6c2';
 base07 = '#abb2bf';
 base08 = '#3e4452';
 base09 = '#be5046';
-base0A = '#98c379';
-base0B = '#d19a66';
-base0C = '#61afef';
-base0D = '#c678dd';
-base0E = '#56b6c2';
-base0F = '#5c6370';
+base10 = '#98c379';
+base11 = '#d19a66';
+base12 = '#61afef';
+base13 = '#c678dd';
+base14 = '#56b6c2';
+base05 = '#5c6370';
 
 t.prefs_.set('color-palette-overrides', 
                         [base00,
+                        base11,
+                        base14,
+                        base13,
+                        base09,
+                        base15,
                         base08,
-                        base0B,
-                        base0A,
-                        base0D,
-                        base0E,
-                        base0C,
                         base05,
                         base03,
-                        base08,
-                        base0B,
-                        base0A,
-                        base0D,
-                        base0E,
-                        base0C,
-                        base07,
+                        base11,
+                        base14,
+                        base13,
                         base09,
-                        base0F,
-                        base01,
-                        base02,
-                        base04,
+                        base15,
+                        base07,
                         base06]);
 
 t.prefs_.set('cursor-color', "rgba(171, 178, 191, 0.5)");
-t.prefs_.set('foreground-color', base05);
+t.prefs_.set('foreground-color', base04);
 t.prefs_.set('background-color', base00);
